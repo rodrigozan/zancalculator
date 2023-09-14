@@ -1,0 +1,10 @@
+{
+    "name": "zancalculator",
+    "version": "1.0.0",
+    "author": "Rodrigo Zan <rodrigo.zandonadi.dev@gmail.com>",
+    "scripts": {
+        "add": "git add .",
+        "commit": "git commit -m 'Created assets/css/style.css and package.json'",
+        "push": "npm run add && npm run commit && git push origin master"
+    }
+  }
